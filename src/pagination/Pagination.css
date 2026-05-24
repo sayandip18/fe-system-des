@@ -1,0 +1,22 @@
+.product-card {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 200px;
+  border: 1px solid black;
+}
+
+.product-img {
+  width: 200px;
+  height: 200px;
+}
+
+.page {
+  margin: 4px;
+  padding: 4px;
+  border: 1px solid black;
+}
+
+.pagination-ctr {
+  margin-bottom: 50px;
+}

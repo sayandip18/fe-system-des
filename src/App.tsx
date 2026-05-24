@@ -1,9 +1,11 @@
-import Autocomplete from "./autocomplete/Autocomplete";
+// import Autocomplete from "./autocomplete/Autocomplete";
+import Pagination from "./pagination/Pagination";
 
 function App() {
   return (
     <>
-      <Autocomplete />
+      {/* <Autocomplete /> */}
+      <Pagination />
     </>
   );
 }
