@@ -1,5 +1,11 @@
+import Autocomplete from "./autocomplete/Autocomplete";
+
 function App() {
-  return <>hello world</>;
+  return (
+    <>
+      <Autocomplete />
+    </>
+  );
 }
 
 export default App;
